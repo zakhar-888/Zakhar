@@ -1,0 +1,31 @@
+h1{
+	font-size: 60px;
+}
+.links{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.links a{
+	display: block;
+	height: 300px;
+	width: 500px;
+	border: 2px solid black;
+	border-radius: 20px;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 50px;
+}
+.links a p{
+	color: black;
+	font-size: 28px;
+}
+.links a img{
+	height: 200px;
+}
+.appl{
+	background: black;
+}
+a.appl p{
+	color: white;
+}
